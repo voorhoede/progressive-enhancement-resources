@@ -45,7 +45,7 @@ You can apply Progressive Enhancement in different ways:
 
 Before you try to enhance the experience, you need to ensure the environment is capable of the enhancement. You test this by performing feature detections:
 
-* [`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports ()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports) natively test if specific CSS feature is supported using JS method or CSS declaration.
+* [CSS feature queries](https://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) ([`CSS.supports()`](https://developer.mozilla.org/en/docs/Web/API/CSS/supports) & [`@supports()`](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)) natively test if specific CSS feature is supported using JS method or CSS declaration.
 * [Feature Detect ES6](https://www.npmjs.com/package/feature-detect-es6) detect which ES2015 features are available.
 * [SVG requiredFeatures](https://developer.mozilla.org/en-US/docs/Web/SVG/Attribute/requiredFeatures) render SVG elements only if their `[requiredFeatures]` evaluate to true.
 * [Modernizr](https://modernizr.com/) is an extensive feature detection suite (supports custom builds).
