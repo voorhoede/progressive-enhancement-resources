@@ -22,6 +22,7 @@ Progressive enhancement means gradually improving the user experience after veri
 * [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/): from the concept of enhancement to the criteria and rules for enriching the user interface.
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement): apply technologies in an intelligent way, layer-upon-layer, to craft an amazing experience.
 * [Designing with Progressive Enhancment](https://www.filamentgroup.com/dwpe/) *The book* (400+ pages) on Progressive Enhancement.
+* [Adaptive Web Design](http://adaptivewebdesign.info/2nd-edition/) book on Progressive Enhancement from content to design and interaction.
 * [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/): enhancing web sites into native-like apps (progressive, not hybrid).
 
 
@@ -88,6 +89,7 @@ With progressive enhancement you support different experiences in different envi
 * [Configure *Desired Capabilities* in Selenium](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) to run automated browser tests in different scenarios.
 * Continuously run automated tests in different browsers using [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) or other alternatives.
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse): audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
+* [Progressive Enhancement checklist (1st edition, HTML)](http://adaptivewebdesign.info/1st-edition/read/chapter-6.html#the-progressive-enhancement-checklist), [Checklist of 2nd edition (PDF)](http://adaptivewebdesign.info/2nd-edition/checklist.pdf): actionable list to check you've applied Progressive Enhancement best practices. Part of [Adaptive Web Design book](http://adaptivewebdesign.info/).
 
 
 ## Examples
