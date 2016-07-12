@@ -63,6 +63,8 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [The Web Platform](https://platform.html5.org/) overview of browser technologies with links to docs and test suites.
 * [Can I use ...?](http://caniuse.com/) compare feature implementations and limitations across desktop & mobile browsers.
 * [I want to use ...](http://www.iwanttouse.com/) figure out the browser support of combinations of features.
+* [HTML5 Test](http://html5test.com/) test and compare HTML5 feature support across browsers.
+* [CSS3 Test](http://css3test.com/) fine-grained tests for CSS3 feature support of your current browser.
 * [What web can do today](https://whatwebcando.today/) lists and checks modern web APIs like access to device system, sensors and actuators.
 * [HTML5 Please](http://html5please.com/) explore features with recommendations and links to polyfills.
 * [API Catalog](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/) let's you compare implementation of API specifications in major desktop browsers.
