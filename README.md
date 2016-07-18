@@ -124,6 +124,7 @@ With progressive enhancement you support different experiences in different envi
 
 ## Related articles
 
+* [Make the web work for everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) A plea to developers to consider browser differences and build a resilient web.
 * [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/) Research on why in 1.1% of page visits JavaScript isn't loaded. 
 
 ---
