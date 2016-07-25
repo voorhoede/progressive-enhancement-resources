@@ -23,6 +23,7 @@ Progressive enhancement means gradually improving the user experience after veri
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement): apply technologies in an intelligent way, layer-upon-layer, to craft an amazing experience.
 * [Designing with Progressive Enhancment](https://www.filamentgroup.com/dwpe/) *The book* (400+ pages) on Progressive Enhancement.
 * [Adaptive Web Design](http://adaptivewebdesign.info/2nd-edition/) book on Progressive Enhancement from content to design and interaction.
+* [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html): intro to different feature detection techniques with examples and demos. 
 * [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/): enhancing web sites into native-like apps (progressive, not hybrid).
 
 
