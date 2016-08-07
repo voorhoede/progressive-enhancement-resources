@@ -68,6 +68,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [CSS3 Test](http://css3test.com/) fine-grained tests for CSS3 feature support of your current browser.
 * [Font Family Reunion](http://fontfamily.io/) compatibility tables for default local (system) fonts.
 * [What web can do today](https://whatwebcando.today/) lists and checks modern web APIs like access to device system, sensors and actuators.
+* [HTML5 Worker test](https://nolanlawson.github.io/html5workertest/) compare which APIs are supported in Web Workers and Service Workers across browsers.
 * [HTML5 Please](http://html5please.com/) explore features with recommendations and links to polyfills.
 * [API Catalog](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/) let's you compare implementation of API specifications in major desktop browsers.
 * [Kangax's ECMAScript compatibility table](http://kangax.github.io/compat-table/) overview of JavaScript feature across browsers and other runtimes.
