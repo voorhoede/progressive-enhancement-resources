@@ -107,6 +107,7 @@ With progressive enhancement you support different experiences in different envi
 * [5-star rating](http://lea.verou.me/2011/08/accessible-star-rating-widget-with-pure-css/) bsed on HTML radio buttons, visually enhanced using CSS pseudo classes and elements.
 * [jQuery slider](https://github.com/filamentgroup/jQuery-Slider) Accessible, custom slider widget based on a standard HTML select.
 * [jQuery custom file input](https://www.filamentgroup.com/lab/jquery-custom-file-input-book-designing-with-progressive-enhancement.html) (article and library).
+* [React isomorphic form](https://github.com/ghengeveld/react-isomorphic-form/) a set of React form components which can be pre-rendered & handled server-side. They are enhanced client-side without losing state.
 
 ### Data visualisations
 
