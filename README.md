@@ -91,6 +91,7 @@ With progressive enhancement you support different experiences in different envi
 * [cURL](https://curl.haxx.se/docs/manual.html) a web page to see the pre-rendered source code of a page.
 * [Browserling](https://www.browserling.com/) let's you manually test web pages in different versions of browsers on Windows and Android platforms.
 * [Run Internet Explorer using Virtual Machines](https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/mac/) to test IE browsers on other platforms.
+* [Device emulators and simulators](https://developers.google.com/web/tools/chrome-devtools/iterate/device-mode/testing-other-browsers?hl=en#device-emulators-and-simulators)
 * [Configure *Desired Capabilities* in Selenium](https://github.com/SeleniumHQ/selenium/wiki/DesiredCapabilities) to run automated browser tests in different scenarios.
 * Continuously run automated tests in different browsers using [BrowserStack](https://www.browserstack.com/), [Saucelabs](https://saucelabs.com/) or other alternatives.
 * [Lighthouse](https://github.com/GoogleChrome/lighthouse): audit and meassure performance of Progressive Web Apps (via cli or [Chrome extension](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)).
