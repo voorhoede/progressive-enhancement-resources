@@ -76,6 +76,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Node compatibility table](http://node.green/) overview of JavaScript feature support across NodeJS versions.
 * [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/) overview of support for all features involved in the core technology behind Progressive Web Apps.
 * [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) overview of support for the different browser features behind real time communication.
+* [Is WebVR ready?](https://iswebvrready.org/) overview of support of different browser features behind WebVR including display, gamepad, audio and speech APIs.
 * [Chrome Platform Status](https://www.chromestatus.com/features)
 * [Edge Platform Status](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
