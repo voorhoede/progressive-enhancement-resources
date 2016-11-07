@@ -123,10 +123,18 @@ With progressive enhancement you support different experiences in different envi
 * [Responsive Carousel](http://filamentgroup.github.io/responsive-carousel/test/functional/fade-auto.html) list of images enhanced into responsive carousel with various behaviour options.
 * [Lazy Progressive Enhancement](https://github.com/tvler/lazy-progressive-enhancement) lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
 
-
 ### Menus
 
 * [Progressive hamburger menu](http://heydonworks.com/practical_aria_examples/#hamburger) list of links in footer enhanced to off-canvas menu.
+
+### Page navigation
+
+Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
+
+* [Barba.js](http://barbajs.org/): add page transitions with event hooks, cache and prefetch support.
+* [SmoothState.js](https://github.com/miguel-perez/smoothState.js) add page transitions with event hooks, cache and prefetch support. (requires jQuery).
+* [jquery-pjax](https://github.com/defunkt/jquery-pjax): add page transitions with support for multiple containers / content slots (requires jQuery).
+* [MoOx/pjax](https://github.com/MoOx/pjax): similar tot jquery-pjax, but without the jQuery dependency.
 
 
 ## Related articles
