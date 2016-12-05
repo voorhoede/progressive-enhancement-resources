@@ -66,6 +66,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [I want to use ...](http://www.iwanttouse.com/) figure out the browser support of combinations of features.
 * [HTML5 Test](http://html5test.com/) test and compare HTML5 feature support across browsers.
 * [CSS3 Test](http://css3test.com/) fine-grained tests for CSS3 feature support of your current browser.
+* [State of Web Type](http://stateofwebtype.com/) support tables for type and typographic features on the web.
 * [Font Family Reunion](http://fontfamily.io/) compatibility tables for default local (system) fonts.
 * [HTML5 Accessibility](http://html5accessibility.com/) compare feature support of HTML5 tags, input types and properties across major browsers. 
 * [What web can do today](https://whatwebcando.today/) lists and checks modern web APIs like access to device system, sensors and actuators.
