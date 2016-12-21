@@ -83,6 +83,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
 * [Webkit Platform Status](https://webkit.org/status/) (Safari)
 * [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) MDN's web technology documentation has a browser compatibility table end the end of each article. 
+* [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) is a crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 
 
 ## Testing methods
