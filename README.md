@@ -69,6 +69,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [State of Web Type](http://stateofwebtype.com/) support tables for type and typographic features on the web.
 * [Font Family Reunion](http://fontfamily.io/) compatibility tables for default local (system) fonts.
 * [HTML5 Accessibility](http://html5accessibility.com/) compare feature support of HTML5 tags, input types and properties across major browsers. 
+* [WAI-ARIA Screen reader compatibility](https://www.powermapper.com/tests/screen-readers/aria/) ARIA roles and attributes support for different screen reader and browser combinations.
 * [What web can do today](https://whatwebcando.today/) lists and checks modern web APIs like access to device system, sensors and actuators.
 * [HTML5 Worker test](https://nolanlawson.github.io/html5workertest/) compare which APIs are supported in Web Workers and Service Workers across browsers.
 * [HTML5 Please](http://html5please.com/) explore features with recommendations and links to polyfills.
