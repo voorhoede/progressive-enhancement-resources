@@ -15,7 +15,7 @@ Only add/change 1 item per pull request.
 We try to adhere to a strict format so please adhere to following guidelines:
 
 * Add the item to the bottom of the relevant category.
-* Use the format `[Title of link](url): short description.`
+* Use the format `[Title of link](url) - Short description.`
 * Keep descriptions short and simple, but meaningful.
 * Check your spelling and grammar.
 * Make sure your text editor is set to remove trailing whitespace.
