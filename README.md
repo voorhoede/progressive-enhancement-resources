@@ -5,16 +5,16 @@ A comprehensive collection of resources on Progressive Enhancement. From concept
 
 ## Contents
 
-* [The concept](#the-concept)
+* [The Concept](#the-concept)
 * [Strategies](#strategies)
-* [Feature detection](#feature-detection)
-* [Support tables](#support-tables)
-* [Testing methods](#testing-methods)
+* [Feature Detection](#feature-detection)
+* [Support Tables](#support-tables)
+* [Testing Methods](#testing-methods)
 * [Examples](#examples)
-* [Related articles](#related-articles)
+* [Related Articles](#related-articles)
 
 
-## The concept
+## The Concept
 
 Progressive enhancement means gradually improving the user experience after verifying the target environment (e.g. browser) is capable of it. Start with content and ensure you maintain functionality & accessibility.
 
@@ -43,7 +43,7 @@ You can apply Progressive Enhancement in different ways:
 * [Application Shell Architecture](https://medium.com/google-developers/instant-loading-web-apps-with-an-application-shell-architecture-7c0c2f10c73) - Setup for instant loading web apps.
 
 
-## Feature detection
+## Feature Detection
 
 Before you try to enhance the experience, you need to ensure the environment is capable of the enhancement. You test this by performing feature detections:
 
@@ -56,7 +56,7 @@ Before you try to enhance the experience, you need to ensure the environment is 
 * [EnhanceJS](https://www.filamentgroup.com/lab/introducing-enhancejs-smarter-safer-apply-progressive-enhancement.html) - Lets you asynchronously load CSS & JS after a set pre-defined feature tests.
 
 
-## Support tables
+## Support Tables
 
 Different environments (platforms, browsers, versions) have different capabilities. Support tables tell you what capabilities each environment has. Knowing the level of support can help you weigh an enhancement against the effort and impact of its implementation.
 
@@ -86,7 +86,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 
 
-## Testing methods
+## Testing Methods
 
 With progressive enhancement you support different experiences in different environments. These are some ways to test all these variations:
 
@@ -105,7 +105,7 @@ With progressive enhancement you support different experiences in different envi
 
 ## Examples
 
-### Custom form elements
+### Custom Form Elements
 
 * [Fancy radio buttons](https://www.sitepoint.com/replacing-radio-buttons-without-replacing-radio-buttons/) - Based on HTML radio buttons, visually enhanced using CSS pseudo classes and elements.
 * [Checkboxes & radio buttons](https://www.filamentgroup.com/dwpe/checkbox-radiobutton/) - With custom focus, hover and checked state. Enhanced asynchronously.
@@ -115,7 +115,7 @@ With progressive enhancement you support different experiences in different envi
 * [jQuery custom file input](https://www.filamentgroup.com/lab/jquery-custom-file-input-book-designing-with-progressive-enhancement.html) - Article and library.
 * [React isomorphic form](https://github.com/ghengeveld/react-isomorphic-form/) - Set of React form components which can be pre-rendered & handled server-side. They are enhanced client-side without losing state.
 
-### Data visualisations
+### Data Visualisations
 
 * [Timeline](https://css-tricks.com/progressive-enhancement-data-visualizations/) - From definition list to SVG illustration (article with demos).
 * [Charts](https://www.filamentgroup.com/lab/update-to-jquery-visualize-accessible-charts-with-html5-from-designing-with.html) - From data table to themed charts using HTML5 canvas (article and library).
@@ -129,7 +129,7 @@ With progressive enhancement you support different experiences in different envi
 
 * [Progressive hamburger menu](http://heydonworks.com/practical_aria_examples/#hamburger) - List of links in footer enhanced to off-canvas menu.
 
-### Page navigation
+### Page Navigation
 
 Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
 
@@ -140,7 +140,7 @@ Asynchronously fetch and transition between static pages using ajax and `history
 * [Turbolinks](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
 
 
-## Related articles
+## Related Articles
 
 * [Make the web work for everyone](https://hacks.mozilla.org/2016/07/make-the-web-work-for-everyone/) - Plea to developers to consider browser differences and build a resilient web.
 * [How many people are missing out on JavaScript enhancement?](https://gds.blog.gov.uk/2013/10/21/how-many-people-are-missing-out-on-javascript-enhancement/) - Research on why in 1.1% of page visits JavaScript isn't loaded. 
