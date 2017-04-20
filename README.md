@@ -16,7 +16,7 @@ A comprehensive collection of resources on Progressive Enhancement. From concept
 
 ## The Concept
 
-Progressive enhancement means gradually improving the user experience after verifying the target environment (e.g. browser) is capable of it. Start with content and ensure you maintain functionality & accessibility.
+[Progressive Enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement) means gradually improving the user experience after verifying the target environment (e.g. browser) is capable of it. Start with content and ensure you maintain functionality & accessibility.
 
 * [Progressive Enhancement: It's about the content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content) - Sharing content is the core of the web. Progressive Enhancement ensures access to content.
 * [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - From the concept of enhancement to the criteria and rules for enriching the user interface.
