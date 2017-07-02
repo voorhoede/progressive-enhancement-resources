@@ -21,7 +21,7 @@ A comprehensive collection of resources on Progressive Enhancement. From concept
 * [Progressive Enhancement: It's about the content](http://cognition.happycog.com/article/progressive-enhancement-its-about-the-content) - Sharing content is the core of the web. Progressive Enhancement ensures access to content.
 * [The Role of Enhancement in Web Design](https://www.nngroup.com/articles/enhancement/) - From the concept of enhancement to the criteria and rules for enriching the user interface.
 * [Understanding Progressive Enhancement](http://alistapart.com/article/understandingprogressiveenhancement) - Apply technologies in an intelligent way, layer-upon-layer, to craft an amazing experience.
-* [Designing with Progressive Enhancment](https://www.filamentgroup.com/dwpe/) - *The book* (400+ pages) on Progressive Enhancement.
+* [Designing with Progressive Enhancement](https://www.filamentgroup.com/dwpe/) - *The book* (400+ pages) on Progressive Enhancement.
 * [Adaptive Web Design](http://adaptivewebdesign.info/2nd-edition/) - Book on Progressive Enhancement from content to design and interaction.
 * [Detecting (HTML5) features](http://diveinto.html5doctor.com/detect.html) - Intro to different feature detection techniques with examples and demos. 
 * [Progressive Web Apps](https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/) - Enhancing web sites into native-like apps (progressive, not hybrid).
