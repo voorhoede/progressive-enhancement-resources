@@ -82,7 +82,8 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Edge Platform Status](https://developer.microsoft.com/en-us/microsoft-edge/platform/status/)
 * [Firefox Platform Status](https://platform-status.mozilla.org/)
 * [Webkit Platform Status](https://webkit.org/status/) (Safari)
-* [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article. 
+* [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
+* [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
 * [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
 
 
