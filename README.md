@@ -75,7 +75,8 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [API Catalog](https://developer.microsoft.com/en-us/microsoft-edge/platform/catalog/) - Lets you compare implementation of API specifications in major desktop browsers.
 * [Kangax's ECMAScript compatibility table](http://kangax.github.io/compat-table/) - Overview of JavaScript feature support across browsers and other runtimes.
 * [Node compatibility table](http://node.green/) - Overview of JavaScript feature support across NodeJS versions.
-* [Is ServiceWorker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Overview of support for all features involved in the core technology behind Progressive Web Apps.
+* [Is service worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Overview of support for all features involved in the core technology behind Progressive Web Apps.
+* [Is PWA ready?](https://ispwaready.toxicjohann.com/) - Overview of support for the core and related technologies behind Progressive Web Apps for both popular global and many Chinese browsers.
 * [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Overview of support for the different browser features behind real time communication.
 * [Is WebVR ready?](https://iswebvrready.org/) - Overview of support of different browser features behind WebVR including display, gamepad, audio and speech APIs.
 * [Chrome Platform Status](https://www.chromestatus.com/features)
