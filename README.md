@@ -86,6 +86,7 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [MDN Compatibility tables](https://developer.mozilla.org/en-US/docs/MDN/Contribute/Structures/Compatibility_tables) - MDN's web technology documentation has a browser compatibility table end the end of each article.
 * [MDN Browser Compat Data](https://github.com/mdn/browser-compat-data) - npm module powering the MDN Compatibility tables.
 * [Device Bugs & Quirks](https://github.com/scottjehl/Device-Bugs) - Crowd sourced collection of weird HTML, CSS, and JS quirks in mobile devices, which you won't find in the other support tables.
+* [Can I Email?](https://www.caniemail.com/) - Support tables for HTML and CSS in emails. Inspired by [Can I use](http://caniuse.com/).
 
 
 ## Testing Methods
