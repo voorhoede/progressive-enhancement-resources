@@ -77,7 +77,6 @@ Different environments (platforms, browsers, versions) have different capabiliti
 * [Kangax's ECMAScript compatibility table](http://kangax.github.io/compat-table/) - Overview of JavaScript feature support across browsers and other runtimes.
 * [Node compatibility table](http://node.green/) - Overview of JavaScript feature support across NodeJS versions.
 * [Is service worker ready?](https://jakearchibald.github.io/isserviceworkerready/) - Overview of support for all features involved in the core technology behind Progressive Web Apps.
-* [Is PWA ready?](https://ispwaready.toxicjohann.com/) - Overview of support for the core and related technologies behind Progressive Web Apps for both popular global and many Chinese browsers.
 * [Is WebRTC ready yet?](http://iswebrtcreadyyet.com/) - Overview of support for the different browser features behind real time communication.
 * [Is WebVR ready?](https://iswebvrready.org/) - Overview of support of different browser features behind WebVR including display, gamepad, audio and speech APIs.
 * [Is Houdini ready yet?](https://ishoudinireadyyet.com/) - Overview of support for Houdini (low-level APIs exposing parts of the CSS rendering engine) across browsers.
